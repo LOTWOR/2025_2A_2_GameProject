@@ -1,2 +1,3 @@
-# 2025_2_2_A_GameProject
+# 2025_2A_2_GameProject 
 2025년 2학기 2학년 A반 게임 이팩트 프로젝트 
+
